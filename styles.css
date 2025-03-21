@@ -4,6 +4,6 @@
     box-sizing: border-box; /* cria uma caixa invisivel para o corpo do site*/
 
 }   .topo{
-    background-color: beige;/*cor do fundo do site*/   
+    background-color: rgb(8, 255, 255);/*cor do fundo do site*/   
     height: 15vh; /*tamanho do topo do site 15% da tela */
 }
